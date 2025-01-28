@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-ECommerce-Site/myapp/static/css/main.b800b179.css",
-    "main.js": "/React-ECommerce-Site/myapp/static/js/main.5f2fddc9.js",
-    "static/media/hero-2.jpg": "/React-ECommerce-Site/myapp/static/media/hero-2.7d07fb5332d49e8ae244.jpg",
-    "static/media/hero-1.webp": "/React-ECommerce-Site/myapp/static/media/hero-1.087a68455d2bd6a93640.webp",
-    "static/media/Onion(1).jpg": "/React-ECommerce-Site/myapp/static/media/Onion(1).d8a4966cc518303fcee9.jpg",
-    "static/media/Carrot(4).jpg": "/React-ECommerce-Site/myapp/static/media/Carrot(4).d6cb341f9ba8bb1522b7.jpg",
-    "static/media/Papaya(7).jpg": "/React-ECommerce-Site/myapp/static/media/Papaya(7).efe9cccb78b2feca08d4.jpg",
-    "index.html": "/React-ECommerce-Site/myapp/index.html",
-    "main.b800b179.css.map": "/React-ECommerce-Site/myapp/static/css/main.b800b179.css.map",
-    "main.5f2fddc9.js.map": "/React-ECommerce-Site/myapp/static/js/main.5f2fddc9.js.map"
+    "main.css": "/static/css/main.1d3f2ec5.css",
+    "main.js": "/static/js/main.3a1b465c.js",
+    "static/media/hero-2.jpg": "/static/media/hero-2.7d07fb5332d49e8ae244.jpg",
+    "static/media/hero-1.webp": "/static/media/hero-1.087a68455d2bd6a93640.webp",
+    "static/media/Onion(1).jpg": "/static/media/Onion(1).d8a4966cc518303fcee9.jpg",
+    "static/media/Carrot(4).jpg": "/static/media/Carrot(4).d6cb341f9ba8bb1522b7.jpg",
+    "static/media/Papaya(7).jpg": "/static/media/Papaya(7).efe9cccb78b2feca08d4.jpg",
+    "index.html": "/index.html",
+    "main.1d3f2ec5.css.map": "/static/css/main.1d3f2ec5.css.map",
+    "main.3a1b465c.js.map": "/static/js/main.3a1b465c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b800b179.css",
-    "static/js/main.5f2fddc9.js"
+    "static/css/main.1d3f2ec5.css",
+    "static/js/main.3a1b465c.js"
   ]
 }
